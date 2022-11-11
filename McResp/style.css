@@ -1,0 +1,39 @@
+@import url(https://db.onlinewebfonts.com/c/827d075b1538829cc0db75696e4d5fa2?family=Speedee);
+
+@font-face {font-family: "Speedee"; 
+    src: url("https://db.onlinewebfonts.com/t/827d075b1538829cc0db75696e4d5fa2.ttf") format("truetype"), 
+}
+
+.social img{
+    padding-left: 8px !important;
+    
+}
+table{
+    width: 100% !important;
+}
+table td{
+    font-size: 16px !important;
+    
+
+}
+h1{
+    font-family: "Speedee",Verdana, Geneva, Tahoma, sans-serif !important;
+    font-size: 36px !important;
+}
+p,nav{
+    font-size: 16px !important;
+    font-weight: normal !important;
+
+}
+.row footer{
+    font-size: 10px !important;
+    padding-bottom: 5px!important;
+}
+li{
+    color: black;
+}
+button:hover,a:hover{
+    transform: scale(1.1);
+    transition: 1.4s;
+}
+
